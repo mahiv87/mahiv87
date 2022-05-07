@@ -1,4 +1,4 @@
 - 👋 Hello, my name is Marcus!
-- 🔭 I’m currently working on a Portfolio Generator
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently working on an Employee Management Database
+- 🌱 I’m currently learning MySQL
 - 📫 How to reach me: maherreraiv1987@gmail.com
