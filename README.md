@@ -1,4 +1,4 @@
 - 👋 Hello, my name is Marcus!
-- 🔭 I’m currently working on an E-Commerce Back End
-- 🌱 I’m currently learning MySQL
+- 🔭 I’m currently working on a Tech Blog
+- 🌱 I’m currently learning MVC
 - 📫 How to reach me: maherreraiv1987@gmail.com
