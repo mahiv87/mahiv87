@@ -1,4 +1,3 @@
 - 👋 Hello, my name is Marcus!
-- 🔭 I’m currently working on a Tech Blog
-- 🌱 I’m currently learning MVC
+- 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: maherreraiv1987@gmail.com
