@@ -1,3 +1,3 @@
 - 👋 Hello, my name is Marcus!
-- 🌱 I’m currently learning about PWA
+- 🌱 I’m currently learning about React
 - 📫 How to reach me: maherreraiv1987@gmail.com
