@@ -1,5 +1,3 @@
-<img src="https://www.codewars.com/users/mahiv87/badges/micro" />
-
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">A passionate frontend developer from Denver!</h3>
 
@@ -25,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiv87&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="mahiv87" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiv87&show_icons=true&theme=synthwave&locale=en" alt="mahiv87" /></p>
+
+<img src="https://www.codewars.com/users/mahiv87/badges/large" />
+
