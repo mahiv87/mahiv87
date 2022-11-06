@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiv87&show_icons=true&theme=radical&locale=en&layout=compact" alt="mahiv87" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiv87&show_icons=true&theme=radical&locale=en" alt="mahiv87" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiv87&show_icons=true&theme=radical&locale=en" alt="mahiv87" /></p>
 
 <img src="https://www.codewars.com/users/mahiv87/badges/large" />
 
