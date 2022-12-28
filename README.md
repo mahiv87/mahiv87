@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Aire](https://github.com/mahiv87/aire-api)
 
-- 🌱 I’m currently learning **React Native, Docker, TypeScript**
+- 🌱 I’m currently learning **React Native, Docker**
 
 - 👨‍💻 All of my projects are available at [https://mahiv87.github.io/hire-marcus/](https://mahiv87.github.io/hire-marcus/)
 
