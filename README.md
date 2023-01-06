@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">A passionate full stack developer from Denver!</h3>
 
-- 🔭 I’m currently working on [Aire](https://github.com/mahiv87/aire-api)
+- 🔭 I’m currently working on a [Mortgage Calculator](https://github.com/mahiv87/mortgage-calculator)
 
 - 🌱 I’m currently learning **React Native, Docker**
 
