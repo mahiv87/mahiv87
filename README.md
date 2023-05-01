@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on a [Fotogram](https://github.com/mahiv87/fotogram)
 
-- 🌱 I’m currently learning **React Native, Docker**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://mahiv87.github.io/hire-marcus/](https://mahiv87.github.io/hire-marcus/)
 
-- 📫 How to reach me **maherreraiv1987@gmail.com**
+- 📫 How to reach me **marcus.herrera.dev@gmail.com**
 
-- 📄 Resume [https://mahiv87.github.io/hire-marcus/static/media/Marcus_Herrera.6fd49f94352ebece1ec4.pdf](https://mahiv87.github.io/hire-marcus/static/media/Marcus_Herrera.6fd49f94352ebece1ec4.pdf)
+- 📄 Resume [https://mahiv87.github.io/hire-marcus/static/media/Marcus-Herrera-Resume.28de86544c9c0dc1e793.pdf](https://mahiv87.github.io/hire-marcus/static/media/Marcus-Herrera-Resume.28de86544c9c0dc1e793.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
