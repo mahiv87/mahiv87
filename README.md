@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Fotogram](https://github.com/mahiv87/fotogram)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://mahiv87.github.io/hire-marcus/](https://mahiv87.github.io/hire-marcus/)
 
