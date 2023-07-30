@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">A passionate full stack developer from Denver!</h3>
 
-- 🔭 I’m currently working on a [Fotogram](https://github.com/mahiv87/fotogram)
+- 🔭 I’m currently working on a [Project Tracker](https://github.com/mahiv87/Project-Tracker)
 
 - 🌱 I’m currently learning **Angular**
 
