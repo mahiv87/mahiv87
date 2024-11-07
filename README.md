@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marcus.herrera.dev@gmail.com**
 
-- 📄 Resume [https://mahiv87.github.io/hire-marcus/static/media/Marcus-Herrera-Resume.a23bd316d0e18942c2b0.pdf](https://mahiv87.github.io/hire-marcus/static/media/Marcus-Herrera-Resume.a23bd316d0e18942c2b0.pdf)
+- 📄 Resume [My Resume](https://mahiv87.github.io/hire-marcus/static/media/Marcus-Herrera-Resume.b8542c16846203fc4d8b.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
